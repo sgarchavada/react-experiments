@@ -1,0 +1,20 @@
+html, body, #root, #root>div {
+  height: 100%;
+}
+.center {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+h1 {
+  font-family: 'Roboto-Bold';
+  font-size: 84px;
+  color: #37474F;
+}
+
+input {
+  padding: 8px 4px;
+}
+
+
